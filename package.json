@@ -1,0 +1,15 @@
+{
+    "name": "navBar",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build:CSS": "tailwind build CSS/style.css -o main/style.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tailwindcss": "^1.8.10"
+    }
+}
